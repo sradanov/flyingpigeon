@@ -1,0 +1,25 @@
+/LAPACK_version.f/1.1/Fri Nov 11 19:34:11 2011//
+/Makefile/1.1/Fri Mar 18 14:37:02 2016//
+/dlamch.f/1.1/Sun Nov 15 20:33:40 2015//
+/dlamchf77.f/1.1/Fri Apr 13 18:22:32 2012//
+/dlamchtst.f/1.1/Fri Nov 11 19:34:11 2011//
+/dsecnd_EXT_ETIME.f/1.1/Fri Nov 11 19:34:11 2011//
+/dsecnd_EXT_ETIME_.f/1.1/Fri Nov 11 19:34:11 2011//
+/dsecnd_INT_CPU_TIME.f/1.1/Fri Nov 11 19:34:11 2011//
+/dsecnd_INT_ETIME.f/1.1/Fri Nov 11 19:34:11 2011//
+/dsecnd_NONE.f/1.1/Fri Nov 11 19:34:11 2011//
+/dsecndtst.f/1.1/Fri Nov 11 19:34:11 2011//
+/ilaver.f/1.1/Sun Nov 15 20:33:40 2015//
+/lsame.f/1.1/Fri Nov 11 19:34:11 2011//
+/lsametst.f/1.1/Fri Nov 11 19:34:11 2011//
+/second_EXT_ETIME.f/1.1/Fri Nov 11 19:34:11 2011//
+/second_EXT_ETIME_.f/1.1/Fri Nov 11 19:34:11 2011//
+/second_INT_CPU_TIME.f/1.1/Fri Nov 11 19:34:11 2011//
+/second_INT_ETIME.f/1.1/Fri Nov 11 19:34:11 2011//
+/second_NONE.f/1.1/Fri Nov 11 19:34:11 2011//
+/secondtst.f/1.1/Fri Nov 11 19:34:11 2011//
+/slamch.f/1.1/Fri Nov 11 19:34:11 2011//
+/slamchf77.f/1.1/Fri Apr 13 18:22:32 2012//
+/slamchtst.f/1.1/Fri Nov 11 19:34:11 2011//
+/tstiee.f/1.1/Fri Nov 11 19:34:11 2011//
+D
