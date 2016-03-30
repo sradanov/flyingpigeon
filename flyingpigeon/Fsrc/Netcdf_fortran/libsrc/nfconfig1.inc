@@ -1,6 +1,6 @@
 /* libsrc/nfconfig1.inc.  Generated from nfconfig.in by configure.  */
 #if 0
-    $Id: nfconfig1.inc,v 1.1 2016/03/25 16:38:46 sradanov Exp $ 
+    $Id: nfconfig.in,v 1.1 2016/03/25 16:38:45 sradanov Exp $ 
 #endif
 
 

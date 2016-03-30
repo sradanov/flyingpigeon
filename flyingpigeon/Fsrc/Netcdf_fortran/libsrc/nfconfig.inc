@@ -1,5 +1,5 @@
 #if 0
-    $Id: nfconfig.inc,v 1.1 2016/03/25 16:38:46 sradanov Exp $ 
+    $Id: nfconfig.in,v 1.1 2016/03/25 16:38:45 sradanov Exp $ 
 #endif
 
 

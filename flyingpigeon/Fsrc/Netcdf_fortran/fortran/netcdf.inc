@@ -1124,7 +1124,7 @@
 
 !     Netcdf version 4 fortran interface.
 
-!     $Id: netcdf.inc,v 1.1 2016/03/25 16:38:15 sradanov Exp $
+!     $Id: netcdf4.inc,v 1.1 2016/03/25 16:38:16 sradanov Exp $
 
 !     New netCDF-4 types.
       integer nf_ubyte
